@@ -1,7 +1,7 @@
 {
-    "name": "phpspec/php-diff",
+    "name": "maracsoft/php-diff",
     "type": "library",
-    "description": "A comprehensive library for generating differences between two hashable objects (strings or arrays).",
+    "description": "Maracsoft A comprehensive library for generating differences between two hashable objects (strings or arrays).",
     "license": "BSD-3-Clause",
 
     "authors": [
